@@ -19,5 +19,5 @@ defaults:
       path: ""
       type: tests
     values:
-      layout: null
+      layout: default
       permalink: /tests/:name
